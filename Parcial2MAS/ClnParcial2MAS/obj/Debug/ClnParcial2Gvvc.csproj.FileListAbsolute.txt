@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\Parcial2Gvvc\Parcial2Gvvc\ClnParcial2Gvvc\obj\Debug\ClnParcial2Gvvc.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Parcial2Gvvc\Parcial2Gvvc\ClnParcial2Gvvc\obj\Debug\ClnParcial2Gvvc.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Parcial2Gvvc\Parcial2Gvvc\ClnParcial2Gvvc\bin\Debug\ClnParcial2Gvvc.dll.config
+C:\Users\ASUS\Desktop\Parcial2Gvvc\Parcial2Gvvc\ClnParcial2Gvvc\bin\Debug\ClnParcial2Gvvc.dll
+C:\Users\ASUS\Desktop\Parcial2Gvvc\Parcial2Gvvc\ClnParcial2Gvvc\bin\Debug\ClnParcial2Gvvc.pdb
+C:\Users\ASUS\Desktop\Parcial2Gvvc\Parcial2Gvvc\ClnParcial2Gvvc\bin\Debug\CadParcial2Gvvc.dll
+C:\Users\ASUS\Desktop\Parcial2Gvvc\Parcial2Gvvc\ClnParcial2Gvvc\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Desktop\Parcial2Gvvc\Parcial2Gvvc\ClnParcial2Gvvc\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Desktop\Parcial2Gvvc\Parcial2Gvvc\ClnParcial2Gvvc\bin\Debug\CadParcial2Gvvc.pdb
+C:\Users\ASUS\Desktop\Parcial2Gvvc\Parcial2Gvvc\ClnParcial2Gvvc\bin\Debug\CadParcial2Gvvc.dll.config
+C:\Users\ASUS\Desktop\Parcial2Gvvc\Parcial2Gvvc\ClnParcial2Gvvc\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Desktop\Parcial2Gvvc\Parcial2Gvvc\ClnParcial2Gvvc\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Desktop\Parcial2Gvvc\Parcial2Gvvc\ClnParcial2Gvvc\obj\Debug\ClnParci.C9E94449.Up2Date
+C:\Users\ASUS\Desktop\Parcial2Gvvc\Parcial2Gvvc\ClnParcial2Gvvc\obj\Debug\ClnParcial2Gvvc.dll
+C:\Users\ASUS\Desktop\Parcial2Gvvc\Parcial2Gvvc\ClnParcial2Gvvc\obj\Debug\ClnParcial2Gvvc.pdb
